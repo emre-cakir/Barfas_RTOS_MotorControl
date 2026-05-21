@@ -1,2 +1,0 @@
-../Core/Src/Service/network_interface.c:42:6:Network_Init	1
-../Core/Src/Service/network_interface.c:50:6:Network_AppClient	10

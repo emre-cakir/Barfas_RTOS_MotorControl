@@ -1,2 +1,0 @@
-../Core/Src/Service/motor_driver.c:23:6:Motor_Init	1
-../Core/Src/Service/motor_driver.c:35:6:Motor_Set_Speed_Direction	4

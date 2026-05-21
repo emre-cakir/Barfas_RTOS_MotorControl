@@ -1,4 +1,0 @@
-../Core/Src/App/task_manager.c:29:6:TaskManager_Dispatch_Process	6
-../Core/Src/App/task_manager.c:78:6:TaskManager_DriveRight_Process	3
-../Core/Src/App/task_manager.c:90:6:TaskManager_DriveLeft_Process	3
-../Core/Src/App/task_manager.c:102:6:TaskManager_DriveRamp_Process	7
