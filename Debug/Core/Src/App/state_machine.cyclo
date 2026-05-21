@@ -1,0 +1,2 @@
+../Core/Src/App/state_machine.c:24:16:State_Get_Current	1
+../Core/Src/App/state_machine.c:32:6:State_Machine_Update	7

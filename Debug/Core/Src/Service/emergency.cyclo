@@ -1,0 +1,4 @@
+../Core/Src/Service/emergency.c:26:9:Emergency_Get_Status	1
+../Core/Src/Service/emergency.c:34:6:Emergency_Reset_Status	1
+../Core/Src/Service/emergency.c:42:6:Emergency_Trigger	1
+../Core/Src/Service/emergency.c:61:6:HAL_GPIO_EXTI_Callback	3

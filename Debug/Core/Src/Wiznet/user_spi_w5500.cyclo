@@ -1,0 +1,7 @@
+../Core/Src/Wiznet/user_spi_w5500.c:25:6:W5500_Select	1
+../Core/Src/Wiznet/user_spi_w5500.c:34:6:W5500_Unselect	1
+../Core/Src/Wiznet/user_spi_w5500.c:45:6:W5500_WriteByte	1
+../Core/Src/Wiznet/user_spi_w5500.c:55:9:W5500_ReadByte	1
+../Core/Src/Wiznet/user_spi_w5500.c:70:6:W5500_WriteBuffer	1
+../Core/Src/Wiznet/user_spi_w5500.c:81:6:W5500_ReadBuffer	1
+../Core/Src/Wiznet/user_spi_w5500.c:91:6:W5500_Hardware_Init	1
